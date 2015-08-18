@@ -1,4 +1,4 @@
-# all
+﻿# all    good practice . example 2
 
 Simple tool for managing several git repositories
 
